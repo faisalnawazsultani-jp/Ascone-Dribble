@@ -1,0 +1,98 @@
+@media screen and (max-width:991px){
+    .box1 h1{
+        font-size: 48px;
+    }
+    .section-title{
+        font-size: 46px;
+    }
+    .footer-brand{
+        font-size: 58px;
+    }
+    .send{
+        min-height: 320px;
+    }
+}
+@media screen and (max-width:767px){
+    .site-width{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .section-space{
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+    .box1 h1{
+        font-size: 38px;
+    }
+    .hero-img{
+        height: 180px;
+    }
+    .box4 img{
+        height: 55px;
+    }
+    .section-title{
+        font-size: 38px;
+    }
+    .savings-card img{
+        height: 250px;
+    }
+    .send{
+        height: 290px;
+        min-height: 0;
+        border-radius: 0 0 0 90px;
+    }
+    .value-card{
+        min-height: 250px;
+        padding: 25px;
+    }
+    .numbers-section h2{
+        font-size: 45px;
+    }
+    .numbers-section .numbers-heading{
+        font-size: 35px;
+    }
+    .faq-title{
+        font-size: 34px;
+    }
+    .cta h2{
+        font-size: 36px;
+    }
+    .cta p{
+        font-size: 17px;
+    }
+}
+@media screen and (max-width:480px){
+    .head{
+        font-size: 12px;
+    }
+    .box1 h1{
+        font-size: 32px;
+    }
+    .hero-img{
+        height: 145px;
+    }
+    .section-title{
+        font-size: 30px;
+    }
+    .savings-card h3{
+        font-size: 23px;
+    }
+    .numbers-section h2{
+        font-size: 34px;
+    }
+    .numbers-section .numbers-heading{
+        font-size: 29px;
+    }
+    .faq-title{
+        font-size: 29px;
+    }
+    .faq-list h3{
+        font-size: 19px;
+    }
+    .cta h2{
+        font-size: 30px;
+    }
+    .footer-brand{
+        font-size: 45px;
+    }
+}
